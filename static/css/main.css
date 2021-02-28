@@ -1,3 +1,14 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+h1, h2, h3{
+    color: #242424;
+    font-weight: 300;
+}
+.navbar{
+    background-color: #737373;
+}
+
+.navbar a{
+    color: wheat;
+}
